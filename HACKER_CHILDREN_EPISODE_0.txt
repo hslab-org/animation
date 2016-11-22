@@ -1,0 +1,67 @@
+小笠原　「コンピュータが１つあれば、いろんな事ができる。
+		初めていじった時、僕は無限の可能性を感じたんだ。」
+
+Aさん「問題から苦しめられている人々を救い出す。」
+Bさん「不可能を可能にする。」
+ここでオープニングテーマの音楽がフェードイン
+Cさん「一つの幸せを創り出す。」
+Dさん「それがハッカーさ！」
+ 
+タイトル「HACKER CHILDREN」表示（二進数で１づつ加算するような表示方法で出現する。）    
+エピソード表示「SECTOR　00 PROLOGUE」
+
+
+
+
+
+/*FIXME
+「親なんか君の人生を保証してくれない、誰も助けちゃくれないよっ！」
+「やらないで後悔するよりやって後悔の方が良い。望まない後遺症残さない範囲でね。」
+「結局はすべて自分次第なんだ。人生後悔したくないっしょ！？」
+*/
+
+
+
+
+エンドクレジット(pythonのソースコードとして行番号付きでそのまま表示する)
+
+#!/usr/bin/env python
+
+def staff():
+	voice_actor = [
+		['syun'	, 'myouji namae'],
+		['rico'	, 'myouji namae'],
+		['hiro'	, 'myouji namae'],
+		['dan'	, 'myouji namae'],
+		['yuji'	, 'myouji namae'],
+		['karin', 'myouji namae'],
+		['leon'	, 'myouji namae'],
+	]
+	animator = ['hitoshi shinozaki']
+	director = ['hitoshi shinozaki']
+
+def music():
+	opening_theme = [
+		['title' , '']
+		['' , '']
+		['' , '']
+		['' , '']
+	]
+
+def tool():
+	hardware = ['']
+
+	software = [
+		['Linux Distribution',		'H_S Linux'],
+		['Image Manipulation ',		'Gimp'],
+		['Image Manipulation ',		'Krita'],
+		['ImageManipulation ',		'Mypaint'],
+		['imageprocessing',			'Imagemagick'],
+		['video_converter',			'Libav'],
+		['DAW',						'Ardour'],
+		['DAW',						'Audacity'],
+		['CSV Editing',				'Libreoffice Calc'],
+	]
+
+def main():
+	print('Thank you for watching!!')
