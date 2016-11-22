@@ -1,5 +1,5 @@
 小笠原　「コンピュータが１つあれば、いろんな事ができる。
-		初めていじった時、僕は無限の可能性を感じたんだ。」
+	初めていじった時、僕は無限の可能性を感じたんだ。」
 
 Aさん「問題から苦しめられている人々を救い出す。」
 Bさん「不可能を可能にする。」
@@ -56,11 +56,11 @@ def tool():
 		['Image Manipulation ',		'Gimp'],
 		['Image Manipulation ',		'Krita'],
 		['ImageManipulation ',		'Mypaint'],
-		['imageprocessing',			'Imagemagick'],
-		['video_converter',			'Libav'],
-		['DAW',						'Ardour'],
-		['DAW',						'Audacity'],
-		['CSV Editing',				'Libreoffice Calc'],
+		['imageprocessing',		'Imagemagick'],
+		['video_converter',		'Libav'],
+		['DAW',				'Ardour'],
+		['DAW',				'Audacity'],
+		['CSV Editing',			'Libreoffice Calc'],
 	]
 
 def main():
