@@ -29,16 +29,16 @@ def staff():
 		['dan'	, 'myouji namae'],
 		['yuji'	, 'myouji namae'],
 		['karin', 'myouji namae'],
-		['leon'	, 'myouji namae'],
+		['leon'	, 'myouji namae']
 	]
 	animator = ['hitoshi shinozaki']
 	director = ['hitoshi shinozaki']
 
 def music():
 	opening_theme = [
-		['title' , '']
-		['' , '']
-		['' , '']
+		['title' , ''],
+		['' , ''],
+		['' , ''],
 		['' , '']
 	]
 
@@ -54,7 +54,7 @@ def tool():
 		['video_converter',		'Libav'],
 		['DAW',				'Ardour'],
 		['DAW',				'Audacity'],
-		['CSV Editing',			'Libreoffice Calc'],
+		['CSV Editing',			'Libreoffice Calc']
 	]
 
 def main():
