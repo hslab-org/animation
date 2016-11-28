@@ -46,15 +46,15 @@ def tool():
 	hardware = ['']
 
 	software = [
-		['Linux Distribution',		'H_S Linux'],
-		['Image Manipulation ',		'Gimp'],
-		['Image Manipulation ',		'Krita'],
-		['ImageManipulation ',		'Mypaint'],
-		['imageprocessing',		'Imagemagick'],
-		['video_converter',		'Libav'],
-		['DAW',				'Ardour'],
-		['DAW',				'Audacity'],
-		['CSV Editing',			'Libreoffice Calc']
+		['Linux Distribution',	'H_S Linux'],
+		['Image Manipulation ',	'Gimp'],
+		['Image Manipulation ',	'Krita'],
+		['ImageManipulation ',	'Mypaint'],
+		['imageprocessing',	'Imagemagick'],
+		['video_converter',	'Libav'],
+		['DAW',			'Ardour'],
+		['DAW',			'Audacity'],
+		['CSV Editing',		'Libreoffice Calc']
 	]
 
 def main():
