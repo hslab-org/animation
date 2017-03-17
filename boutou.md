@@ -26,7 +26,6 @@ Last update 2017.2.14
 登場人物
 
 瞬（Syun）１１歳　主人公。	<br>
-<img src='http://hslab.org/tmp/boy.jpg' height='200' width='200'>
 <pre>
 	彼のメンターである、小笠原裕君の影響で、ハッキングに興味を持ち、
 	学校の休み時間になるとダッシュで校内のカフェのテラス席に行き、
@@ -65,6 +64,7 @@ Last update 2017.2.14
 	腹筋割れてるし、片手でりんご潰せる。
 </pre>
 小笠原裕（Hiro Ogasawara）１４歳
+<img src='http://hslab.org/tmp/boy.jpg' height='200' width='200'>
 <pre>
 	裕が８歳の時公園で主人公と出会う。裕「いくつ？」 瞬「５しゃーい！」
 	主人公がハッキングに興味を持つきっかけとなる人物。
