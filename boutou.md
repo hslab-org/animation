@@ -63,7 +63,7 @@ Last update 2017.2.14
 	競技プログラミングでは無論トップコーダー。スコアは2位の人の10倍以上の高得点。
 	腹筋割れてるし、片手でりんご潰せる。
 </pre>
-小笠原裕（Hiro Ogasawara）１４歳
+小笠原裕（Hiro Ogasawara）１４歳<br>
 <img src='http://hslab.org/tmp/boy.jpg' height='200' width='200'>
 <pre>
 	裕が８歳の時公園で主人公と出会う。裕「いくつ？」 瞬「５しゃーい！」
