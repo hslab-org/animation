@@ -26,8 +26,8 @@ Last update 2017.2.14
 　　
 登場人物
 
-瞬（Syun）１１歳　主人公。	
-<img src='http://hslab.org/tmp/boy.jpg' height='200' width='200'>
+瞬（Syun）１１歳　主人公。	<br>
+<img src='http://hslab.org/tmp/boy.jpg' height='200' width='200'><br>
 	彼のメンターである、小笠原裕君の影響で、ハッキングに興味を持ち、
 	学校の休み時間になるとダッシュで校内のカフェのテラス席に行き、
 	リーナスセット（ドライパスタとコークとドーナツ）を食べながら
@@ -38,8 +38,8 @@ Last update 2017.2.14
 	理幸と同じぐらい不思議君で、母性本能をくすぐる。
 	理幸が通っている大学に聴講生として、一緒に前の席で講義を聞きに行くこともある。
 			
-理幸（Rico）１０歳
-<img src='http://hslab.org/tmp/girl.jpg' width='200'>
+理幸（Rico）１０歳<br>
+<img src='http://hslab.org/tmp/girl.jpg' width='200'><br>
 	日本人と中国人のハーフ。
 	学歴　名門私立小学校 → 国立先端技術大学（飛び級）
 	特技　精密画, 高速ハンドコンパイル, 弾幕STG(C*VEのSTGをノーミズノーボムで全クリできるレベル),
