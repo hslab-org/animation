@@ -38,7 +38,7 @@ Last update 2017.2.14
 	理幸が通っている大学に聴講生として、一緒に前の席で講義を聞きに行くこともある。
 </pre>
 理幸（Rico）１０歳<br>
-<img src='http://hslab.org/tmp/girl.jpg' width='200'>
+<img src='http://hslab.org/anime/img/ricomepachi.png' width='200'>
 <pre>
 	日本人と中国人のハーフ。
 	学歴　名門私立小学校 → 国立先端技術大学（飛び級）
