@@ -57,7 +57,7 @@ Last update 2017.2.14
 	スコアは2位の人の10倍以上の高得点。腹筋割れてるし、片手でりんご潰せる。原宿や秋葉原に友達とよく遊びにいく。	
 </pre>
 小笠原裕（Hiro Ogasawara）１４歳<br>
-<img src='http://hslab.org/tmp/boy.jpg' height='200' width='200'>
+<a href='http://hslab.org/anime/img/rico_max.png'><img src='http://hslab.org/tmp/boy.jpg' height='200' width='200'></a>
 <pre>
 	裕が８歳の時公園で主人公と出会う。裕「いくつ？」 瞬「５しゃーい！」
 	主人公がハッキングに興味を持つきっかけとなる人物。
