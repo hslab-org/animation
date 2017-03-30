@@ -36,6 +36,7 @@ Last update 2017.2.14
 イケメンで知的で建設的な話を良くする彼だが、	
 理幸と同じぐらい不思議君で、母性本能をくすぐる。
 理幸が通っている大学に聴講生として、一緒に前の席で講義を聞きに行くこともある。
+好きな食べ物は、コークとドーナツとドライパスタ。
 </pre>
 理幸（Rico）１０歳<br>
 <a href='http://hslab.org/anime/img/rico_max.png'><img src='http://hslab.org/anime/img/ricomepachi.png' width='200'></a>
