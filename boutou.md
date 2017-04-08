@@ -221,13 +221,13 @@ SECTOR 01 (第1話) while(True)
 SECTOR 02 (第2話) 
 	量子コンピュータから無事に脱出し、AIに捕まりそうになるが無事回避。
 	由自君の家で見つけた衝撃な事実とは？	
-SECTOR 03 (第3話) Queen of the hacker
+SECTOR 03 (第3話) Little queen of the full stack hacker
 	参加者の平均年齢28歳。B-Wave主催のハッキングコンテストにて、
-	優勝した超天才美少女、理幸という名の化け物の正体とは？
-SECTOR 04 (第4話)	Brainwash Factory
+	わずか10歳で優勝した超天才美少女、理幸という名の化け物の正体とは？
+SECTOR 04 (第4話)	
 SECTOR 05 (第5話) 
 SECTOR 06 (第6話) 
-SECTOR 07 (第7話) 
+SECTOR 07 (第7話) Brainwash Factory
 SECTOR 08 (第8話)	Deaf-blind programmer
 	来芽君登場。彼が少年だった頃、RBF(ロボット人間洗脳工場)に拉致され、
 	抗がん剤兵器の実験台にされ、その後遺症で目も耳も聞こえず
