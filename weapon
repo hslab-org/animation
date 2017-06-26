@@ -1,0 +1,7 @@
+武器召喚コマンド！ バーナーソード　
+
+召喚コマンド
+$ weapon-run burnersode
+
+コンパイルコマンド
+$ weapon-build burnersode.q
